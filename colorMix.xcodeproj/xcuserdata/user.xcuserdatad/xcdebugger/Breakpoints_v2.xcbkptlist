@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "81790D97-AC4E-4D8B-BF6E-737471F0AD2C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D64CE5D9-4760-421A-BAA5-9ED366C5D8FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "colorMix/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D64CE5D9-4760-421A-BAA5-9ED366C5D8FA - e234e9bcd5ac4716"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "colorMix.ViewController.greenSlider.getter : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "colorMix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/STUDY/App/colorMix/colorMix/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "D64CE5D9-4760-421A-BAA5-9ED366C5D8FA - a1ea69eaf4928f1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "colorMix.ViewController.greenSlider.setter : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "colorMix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/STUDY/App/colorMix/colorMix/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "D64CE5D9-4760-421A-BAA5-9ED366C5D8FA - 448199cab25de3bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "colorMix.ViewController.greenSlider.modify : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "colorMix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/STUDY/App/colorMix/colorMix/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "D64CE5D9-4760-421A-BAA5-9ED366C5D8FA - b897a91fd169e83c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "colorMix.ViewController.greenSlider.modify : Swift.Optional&lt;__C.UISlider&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "colorMix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/STUDY/App/colorMix/colorMix/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "D64CE5D9-4760-421A-BAA5-9ED366C5D8FA - 22e101ab4f6beaa3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "colorMix.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; colorMix.ViewController"
+                  moduleName = "colorMix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/STUDY/App/colorMix/colorMix/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "905">
+               </Location>
+               <Location
+                  uuid = "D64CE5D9-4760-421A-BAA5-9ED366C5D8FA - 95647a9581121259"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "colorMix.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;colorMix.ViewController&gt;"
+                  moduleName = "colorMix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/STUDY/App/colorMix/colorMix/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "846">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58CB0DC0-B2BF-440F-B18A-73E032E758C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "colorMix/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64CE3454-4872-4C85-A92F-FBA15E27A520"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "colorMix/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
